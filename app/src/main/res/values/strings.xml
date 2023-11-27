@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application Video</string>
+    <string name="bmi">Body Mass Index (BMI)</string>
+    <string name="bmi_weight">WEIGHT</string>
+    <string name="bmi_height">HEIGHT</string>
+    <string name="unit">UNIT</string>
+    <string name="kg">KG</string>
+    <string name="enter_weight">enter the weight</string>
+    <string name="m">M</string>
+    <string name="enter_height">enter the height</string>
+    <string name="bmi_result">BMI RESULT</string>
+</resources>
